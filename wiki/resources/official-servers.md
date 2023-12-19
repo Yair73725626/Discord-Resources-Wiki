@@ -1,10 +1,10 @@
 ---
-title: Official Discord Servers
+title: como funciona el servidor 
 sidebar_position: 2
 description: Official servers owned by Discord.
 ---
 
-# Official Servers
+# Servidor 
 
 ## Discord Developers
 
